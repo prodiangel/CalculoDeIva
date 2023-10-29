@@ -1,15 +1,20 @@
 #DeclaracionDeVariables
+VlrBase=0
+VlrIva=0
 Iva=0
-PreO=0
+
+
 #EntradaDeDatos
-Iva=float(input("De cuanto Es la Tarifa Del Iva (Sin %)"))
-PreO=float(input("Inserta  El Precio Del Producto"))
+VlrIva=float(input("Cuanto Cuesta El Producto"))
+Iva=float(input("Escribe La Tarifa Del Iva (Sin % ))"))
 
 #Proceso
 Iva=(Iva/100)
-Iva=(PreO*Iva)
-PreO=(PreO+Iva)
+VlrBase=(VlrIva)/(1+Iva)
 
 #Salida
-print("El Valor Del Iva Fue De ",Iva)
-print("El Precio Con El Iva Agregado Es De ",PreO)
+
+print("El Precio Original Es De ", VlrBase)
+print ("El Iva Fue De ",Iva)
+
+#DesarrolladoPorAngel

@@ -1,22 +1,9 @@
-Hola a todos lo que este usando este software que nos permite calcular cuanto cuesta 
-un producto con iva incluido.
+Hola a todos lo que este usando este software que nos permite calcular el precio original 
+del producto
 
-#Intrucciones:
-El programa nos preguntara cual es la tarifa del iva y tendremos que  ingresar la tarifa sin 
-el caracter % y sin decimal.
-
-Ejemplo incorrecto:
-15%
-
-Ejemplo correcto:
-15 
-
-Esto no se debe de hacer ya que el programa por si mismo pasa de pocentaje a decimal y el hacer 
-esto puede alterar el resultado 
-
-El programa despues nos preguntara sobre el precio del producto aqui solo deberemos ingresar
-el precio del producto sin el signo de $ ya que solo admite valores numericos y puede dar error
-el programa 
+#Intrucciones
+El programa nos preguntara que cual es el precio del producto y solo ingresaremos el precio del
+producto sin el caracter $
 
 Ejemplo Incorrecto:
 $500
@@ -24,7 +11,14 @@ $500
 Ejemplo Correcto:
 500
 
-Eso seria todo espero te sirva y que lo disfrutes
+Despues nos preguntara la tarifa del iva y deberemos ingresar la tarifa sin el caracter de %
 
-#Desarrollado Por Ángel Gabriel Gómez Solis
+Ejemplo Incorrecto:
+16%
 
+Ejemplo Correcto:
+16
+
+Eso Seria Todo Espero que disfrutes del software
+
+Desarrollado Por Ángel Gabriel Gómez Solis
