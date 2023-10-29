@@ -1,9 +1,19 @@
-Hola a todos lo que este usando este software que nos permite calcular el precio original 
-del producto
+Hola a todos lo que esta es la vercion final del software que ayuda a calcular el iva
 
 #Intrucciones
-El programa nos preguntara que cual es el precio del producto y solo ingresaremos el precio del
-producto sin el caracter $
+El programa nos preguntara como queremos calcular el precio si es con iva o si iva
+y depende de que accion queremos calcular deberemos ingresar la accion en texto de lo 
+queremos hacer siguiendo las siguientes dos opciones en el caso de que querramos calcular 
+con iva
+
+Ejemplo:
+con iva
+Con Iva
+
+Para calcular sin iva solo se admiten las siguientes opciones
+Ejemplo
+sin iva
+Sin Iva
 
 Ejemplo Incorrecto:
 $500

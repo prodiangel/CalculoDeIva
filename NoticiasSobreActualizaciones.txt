@@ -1,2 +1,1 @@
-Proximamente creare un programa que una las dos funciones del calculo del iva
-esta sera la vercion final
+Esta Es la Vercion Final 
