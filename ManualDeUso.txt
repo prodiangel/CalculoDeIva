@@ -15,8 +15,9 @@ Ejemplo
 sin iva
 Sin Iva
 
-Ejemplo Incorrecto:
-$500
+#En que caso de no saber como utilizar el software leer los manuales de las verciones corres
+pondientes a las funciones deseadas
+
 
 Ejemplo Correcto:
 500
